@@ -4,7 +4,7 @@ This short project aimed to calculate their share in their team's points for eac
 
 # Data Collection
 
-All the data needed for this project was collected by myself going through tables of as I figured that for such a small sample size it would be the easiest solution instead of writing code to collect data using a relevan API such as [Ergast Developer API](http://ergast.com/mrd/). What was also significant is taking into account the scenarios in which a driver changed their team in the middle of the season. As the points for that driver during that season had to be split in two parts one for each period spent in a different team.
+All the data needed for this project was collected by myself going through tables of as I figured that for such a small sample size it would be the easiest solution instead of writing code to collect data using a relevant API such as [Ergast Developer API](http://ergast.com/mrd/). What was also significant is taking into account the scenarios in which a driver changed their team in the middle of the season. As the points for that driver during that season had to be split in two parts one for each period spent in a different team.
 
 # Data Cleaning
 
